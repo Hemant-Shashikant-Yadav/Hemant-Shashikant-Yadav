@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hemant-s-yadav
+- 📍 I live at Maharashtra, India.
+- 👀 I’m interested in computer programing.
+- 🔭 I wanted to become a Full-stack developer. 
+- 🌱 I’m currently learning C&C++ language.
+- 💕 I would like to work on Artificial Intelligence, Machine Learning.
+- 📫 How to reach me - My email - hemantsryadav@gmail.com, My Instagram - @hemant.shashikant.yadav.
