@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hemant-s-yadav
-- 📍 I live at Maharashtra, India.
+- 👋 Hi, I’m Hemant Shashikant Yadav.
+- 📍 I live in Maharashtra, India.
 - 👀 I’m interested in computer programing.
-- 🔭 I wanted to become a Full-stack developer. 
-- 🌱 I’m currently learning C&C++ language.
-- 💕 I would like to work on Artificial Intelligence, Machine Learning.
+- 🔭 I wanted to become a AI/ML developer. 
+- 🌱 I’m currently working on ML in python.
+- ✌️ I have basic knowledge of C, C++, Java, DSA, Python and Front end (HTML, CSS (with bootstrap), Javascript) 
+- 💕 I would like to work on 'Artificial Intelligence' and 'Machine Learning'.
 - 📫 How to reach me - My email - hemantsryadav@gmail.com, My Instagram - @hemant.shashikant.yadav.
