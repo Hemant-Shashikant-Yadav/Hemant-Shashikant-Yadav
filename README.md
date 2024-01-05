@@ -20,7 +20,7 @@
 
 -----
  
-[<img src="https://github-readme-stats.vercel.app/api?username=Hemant-Shashikant-Yadav&&show_icons=true" width="52%">]  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Shashikant-Yadav&layout=compact" width="40%">] [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant-Shashikant-Yadav" width="92.5%">]
+<img src="https://github-readme-stats.vercel.app/api?username=Hemant-Shashikant-Yadav&&show_icons=true" width="52%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Shashikant-Yadav&layout=compact" width="40%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant-Shashikant-Yadav" width="92.5%">
 
 -----
 ## 🌐Socials
