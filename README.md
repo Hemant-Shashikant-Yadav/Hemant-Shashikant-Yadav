@@ -18,6 +18,11 @@
 
 
 
+-----
+ 
+[<img src="https://github-readme-stats.vercel.app/api?username=Hemant-Shashikant-Yadav&&show_icons=true" width="52%">]  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Shashikant-Yadav&layout=compact" width="40%">] [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant-Shashikant-Yadav" width="92.5%">]
+
+-----
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemant.shashikant.yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-yadav-75a22622a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HemantShYadav) 
 
